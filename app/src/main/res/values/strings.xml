@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkGT</string>
+    <string name="reset_network">Réinitialiser le réseau</string>
+    <string name="save_network">Sauvegarder le réseau</string>
+    <string name="load_network">Charger le réseau</string>
+    <string name="send_email">Envoyer par mail</string>
+    <string name="mode_add_node">Mode Ajout Objet</string>
+    <string name="mode_add_edge">Mode Ajout Connexion</string>
+    <string name="mode_edit">Mode Modification</string>
+    <string name="label_prompt">Entrez l\'étiquette :</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="node_name_hint">Nom de l\'objet</string>
+    <string name="edge_name_hint">Nom de la connexion</string>
+</resources>
